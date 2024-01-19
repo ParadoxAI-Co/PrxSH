@@ -4,5 +4,5 @@ python command line tool for networking & creating servers
 
 ## installation
 
-<a href="[#](https://github.com/ParadoxAI-Co/PrxSH/releases/tag/PrxSH)https://github.com/ParadoxAI-Co/PrxSH/releases/tag/PrxSH">Releases</a>
+<a href="https://github.com/ParadoxAI-Co/PrxSH/releases/tag/PrxSH">Releases</a>
 
